@@ -1,4 +1,0 @@
-Discussion of how you used LLMs/AI tools, who you collaborated with here, etc.
-
-used LLMs to search new functions usage that I learned, and ideas of making code clean.
-used LLMs to identify problems in my code when I'm stuck
